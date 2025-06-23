@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/password-manager/static/css/main.557e4cd8.css",
-    "main.js": "/password-manager/static/js/main.cdf22fd7.js",
+    "main.js": "/password-manager/static/js/main.6ed6de74.js",
     "index.html": "/password-manager/index.html",
     "main.557e4cd8.css.map": "/password-manager/static/css/main.557e4cd8.css.map",
-    "main.cdf22fd7.js.map": "/password-manager/static/js/main.cdf22fd7.js.map"
+    "main.6ed6de74.js.map": "/password-manager/static/js/main.6ed6de74.js.map"
   },
   "entrypoints": [
     "static/css/main.557e4cd8.css",
-    "static/js/main.cdf22fd7.js"
+    "static/js/main.6ed6de74.js"
   ]
 }
